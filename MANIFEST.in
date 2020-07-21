@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include renovation_service_provider_manager *.css
+recursive-include renovation_service_provider_manager *.csv
+recursive-include renovation_service_provider_manager *.html
+recursive-include renovation_service_provider_manager *.ico
+recursive-include renovation_service_provider_manager *.js
+recursive-include renovation_service_provider_manager *.json
+recursive-include renovation_service_provider_manager *.md
+recursive-include renovation_service_provider_manager *.png
+recursive-include renovation_service_provider_manager *.py
+recursive-include renovation_service_provider_manager *.svg
+recursive-include renovation_service_provider_manager *.txt
+recursive-exclude renovation_service_provider_manager *.pyc
